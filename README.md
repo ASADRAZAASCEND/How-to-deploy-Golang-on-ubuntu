@@ -118,8 +118,8 @@ WantedBy=multi-user.target
 Next, start and enable this service:
 ```
 systemctl daemon-reload
-systemctl start hello_world.service
-systemctl enable hello_world.service
+systemctl start goweb.service
+systemctl enable goweb.service
 ```
 - **PROJECT #3 Example**
 
